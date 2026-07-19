@@ -1,0 +1,10 @@
+B001,I Never Promised You a Rose Garden,Joanne Greenberg,Psychological,Penguin Group,2022,5,available
+B002,Harry Potter & the Order of the Phoenix,J. K. Rowling,Fantasy,Bloomsbury,2003,2,available
+B003,Skulduggery Pleasant: Mortal Coil,Derek Landy,Detective,HarperCollins,2010,4,available
+B004,The Fisherman,John Langan,Horror,Word Horde,2016,7,available
+B005,My Mechanical Romance,Alexene Farol Follmuth,Romance,Holiday House,2023,0,borrowed
+B006,Art Objects: Essays on Ecstasy and Effrontery,Jeanette Winterson,Documentary,Knopf Doubleday Publishing Group,1997,8,available
+B007,Lycanthropy and Other Chronic Illnesses,Kristen O'Neal,Comedy,Quirk Books,2022,5,available
+B008,Faust Among Equals,Tom Holt,Fantasy,Orbit,1995,3,available
+B009,Flying Dutch,Tom Holt,Adventure,Ace,1993,4,available
+B010,Kulti,Mariana Zapata,Romance,2015,2015,8,available
