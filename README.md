@@ -1,7 +1,6 @@
 # Library Management System
 
 [![Python Version](https://img.shields.io/badge/Language-Python%203.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Development IDE](https://img.shields.io/badge/IDE-PyCharm-black.svg?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 A modular, production-grade console application built in Python utilizing robust Object-Oriented Programming (OOP) architectures to manage library catalogs, member accounts, and book circulation logs. Designed with clean architectural separation to mock real-world software workflows, complete with persistent storage configurations.
