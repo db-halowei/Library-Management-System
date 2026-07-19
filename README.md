@@ -44,6 +44,3 @@ The application runs a clean terminal control console providing administrative o
 4. **Process Book Return** — Computes active transaction deltas and restores asset quantities.
 5. **Search Catalog Index** — Returns targeted data structures instantly based on input keys.
 6. **Graceful System Exit** — Flushes transient runtime data streams directly back to physical file packages.
-1. Clone this repository directly into your local development environment:
-   ```bash
-   git clone [https://github.com/db-halowei/desmond-portfolio.git](https://github.com/db-halowei/desmond-portfolio.git)
