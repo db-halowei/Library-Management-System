@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/Language-Python%203.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Application Type](https://img.shields.io/badge/Application-Console%20%2F%20Backend-brightgreen.svg)](#)
+[![Development IDE](https://img.shields.io/badge/IDE-PyCharm-black.svg?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 A modular, production-grade console application built in Python utilizing robust Object-Oriented Programming (OOP) architectures to manage library catalogs, member accounts, and book circulation logs. Designed with clean architectural separation to mock real-world software workflows, complete with persistent storage configurations.
 
@@ -19,7 +19,7 @@ A modular, production-grade console application built in Python utilizing robust
 
 ## 🛠️ Technical Stack & Framework
 
-* **Core Language:** Python 3.x
+* **Core Language:** Python 3.8
 * **Data Layer:** Flat-file data serialization via built-in packages (`json` or `csv`).
 * **Testing & Tools:** Built-in validation algorithms, error handling blocks (`try-except`), and terminal formatting schemes.
 
